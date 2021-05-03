@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Now that we have gathered information on the retiring individuals, we have been asked to organize the retiring individuals by titles and idnetify any who may be eligible for a mentorship program. 
+Now that we have gathered information on the retiring individuals, we have been asked to organize the retiring individuals by titles and identify any who may be eligible for a mentorship program. 
 
 ## Results 
 
